@@ -33,7 +33,7 @@ public class NewUserActivity extends AppCompatActivity {
     private Request request;
 
     //url
-    private String url_create_user = "192.168.1.6:9090/MedStoreTest/create_user.php";
+    private String url_create_user = "http://192.168.1.6:9090/MedStoreTest/create_user.php";
 
     //Parameters
     EditText User;
